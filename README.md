@@ -1,4 +1,4 @@
-# Salut, je me présente: Hugo Walle
+# Salut, je me présente: Hugo
 
 Développeur web fullstack avec une appétence pour le **Python/Django** et le **JavaScript**.  
 J'aime construire des applications propres, bien architecturées et déployées.
